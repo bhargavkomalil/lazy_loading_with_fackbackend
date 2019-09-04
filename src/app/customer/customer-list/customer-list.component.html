@@ -1,0 +1,31 @@
+<h2>customer-list works!</h2>
+
+<!-- <div *ngFor="let data of detailsService_.list">
+    <span> {{data.id}}</span><span>{{data.name}}</span>
+</div> -->
+
+<table class="table">
+    <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>City</th>
+      <th>Country</th>
+      <th style="white-space: nowrap;">Zip Code</th>
+    </tr>
+    <tr *ngFor="let item of detailsService_.list">
+      <td>{{item.id}}</td>
+      <!-- <td><a routerLink="{{item.id}}/detail">{{item.name}}</a></td> -->
+      <td><a routerLink ="{{item.id}}/detail">{{item.name}}</a></td>
+      <td>{{item.city}}</td>
+      <td>{{item.country}}</td>
+      <td>{{item.zipcode}}</td>
+    </tr>
+  </table>
+
+
+<!-- "id": 102,
+"name": "Drew Gay",
+"city": "Bonnyville",
+"country": "Virgin Islands, United States",
+"zipcode": 338208 -->
+

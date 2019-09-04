@@ -1,0 +1,15 @@
+{
+  "customerDetails": [
+    {"id":101,"name":"Travis Vincent","city":"Nässjö","country":"Mali","zipcode":14782},
+    {"id":102,"name":"Drew Gay","city":"Bonnyville","country":"Virgin Islands, United States","zipcode":338208},
+    {"id":103,"name":"Kennedy Hunt","city":"Skegness","country":"Sao Tome and Principe","zipcode":78728},
+    {"id":104,"name":"Kyle Price","city":"Velden am Wörther See","country":"Greenland","zipcode":50960},
+    {"id":105,"name":"Zeph Case","city":"Emarèse","country":"Saint Pierre and Miquelon","zipcode":9723},
+    {"id":106,"name":"Tad Beasley","city":"San Martino in Badia/St. Martin in Thurn","country":"Indonesia","zipcode":32235},
+    {"id":107,"name":"Quinn Booth","city":"Nicolosi","country":"Tuvalu","zipcode":40695},
+    {"id":108,"name":"Wayne Sanders","city":"Devizes","country":"India","zipcode":43380},
+    {"id":109,"name":"Malik Suarez","city":"Stamford","country":"Cook Islands","zipcode":7831},
+    {"id":110,"name":"Jin Peck","city":"Chile Chico","country":"Aruba","zipcode":34753}
+  ]
+}
+
